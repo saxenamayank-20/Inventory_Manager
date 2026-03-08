@@ -1,0 +1,22 @@
+# Virtual environment - NEVER commit this
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+
+# Environment variables (contains passwords!)
+.env
+crud_app/.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

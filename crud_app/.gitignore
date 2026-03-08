@@ -1,0 +1,25 @@
+# Environment variables (NEVER commit this - contains passwords!)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+
+# OS
+.DS_Store
+Thumbs.db
