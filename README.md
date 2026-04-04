@@ -21,13 +21,6 @@ A comprehensive full-stack inventory management system that allows users to effi
 - **Data Validation** - Ensure data integrity with Pydantic models
 - **API Documentation** - Interactive Swagger UI for API exploration
 
-## 📸 Screenshots
-<!-- Add screenshots here -->
-- Dashboard view
-- Add item form
-- Inventory list
-- Search results
-
 ## 🧠 Learnings
 - Building scalable full-stack applications with separation of concerns
 - Implementing RESTful API design patterns
