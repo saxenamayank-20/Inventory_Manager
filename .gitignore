@@ -9,6 +9,10 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Database files
+*.db
+inventory.db
+
 # Environment variables (contains passwords!)
 .env
 crud_app/.env
