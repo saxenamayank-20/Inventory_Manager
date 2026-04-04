@@ -103,3 +103,5 @@ The UI opens at: **http://localhost:8501**
 | ✏️ Update Item  | Load item by ID and edit fields  |
 | 🗑️ Delete Item | Preview + confirm delete by ID   |
 | 🔍 Search       | Search items by name keyword     |
+
+⭐ **Star this repo** if you find it helpful!
