@@ -7,7 +7,7 @@ import os
 # Load environment variables from .env file
 load_dotenv()
 
-DATABASE_URL = os.getenv("DATABASE_URL", "mysql+pymysql://root:password@localhost:3306/crud_db")
+DATABASE_URL = os.getenv("DATABASE_URL", "sqlite:///./inventory.db")
 
 # Create the SQLAlchemy engine
 engine = create_engine(
