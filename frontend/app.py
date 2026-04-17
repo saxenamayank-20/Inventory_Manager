@@ -4,7 +4,7 @@ import requests
 # ─────────────────────────────────────────────
 # Configuration
 # ─────────────────────────────────────────────
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://inventory-manager-sqqa.onrender.com"
 
 st.set_page_config(
     page_title="📦 Item Inventory Manager",
